@@ -1,4 +1,8 @@
 .vnev
 .env
+<<<<<<< HEAD
+=======
+# Ignore virtual environment directory
+>>>>>>> 32e4a92fa8749a1f62493bc74ad7c0f6fdd95236
 venv/
 .venv/
